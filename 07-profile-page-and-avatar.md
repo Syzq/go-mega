@@ -445,7 +445,7 @@ templates/content/profile.html
 
 加入 Edit 链接: vm 增加 Editable 字段， 然后在 `profile.html` 中加入链接
 
-model/profile.go
+vm/profile.go
 ```go
 package vm
 
